@@ -1,0 +1,5 @@
+pluginclassname=LanguageSelectorPlugin
+pluginname=LanguageSelectorPlugin
+origin=data-quest
+version=2
+studipMinVersion=2.0

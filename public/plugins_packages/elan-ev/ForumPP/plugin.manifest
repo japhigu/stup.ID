@@ -1,0 +1,6 @@
+pluginclassname=ForumPP
+pluginname=ForumPP
+origin=elan-ev
+version=2.0.35
+studipMinVersion=2.3
+studipMaxVersion=2.3.9

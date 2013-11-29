@@ -1,0 +1,5 @@
+pluginname=CustomStart
+pluginclassname=CustomStart
+origin=augsburg-medienlabor
+version=0.9.9
+studipMinVersion=2.3.1
